@@ -32,7 +32,7 @@ export const {
   useGetProductsQuery,
   useGetSearchProductsQuery ,
   useUseGetProductByIdQuery ,
-//   useDeleteProductMutation,
+//   useDeleteProductMutation,n
 //   useCreateProductMutation,
 //   useUpdateProductMutation
 } = productApi
